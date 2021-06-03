@@ -28,4 +28,8 @@ def generate_user(username):
 def random_page():
   return render_template('page.html', code=choice(number_list))
 
+@web_site.route('/elevensi')
+def route_eleve_nsi():
+  return render_template('page_eleve_nsi.html', code=choice(number_list))
+
 web_site.run(host='0.0.0.0', port=8080)
