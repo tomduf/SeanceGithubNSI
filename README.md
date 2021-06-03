@@ -1,6 +1,6 @@
 # SeanceGithubNSI
 Séance Hithub
 
-Voici un texte d'aide créé depuis github
+Je viens de supprimer un texte
 
 Ce texte est modifié par tomduf
